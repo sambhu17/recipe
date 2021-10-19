@@ -1,0 +1,33 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+@media(min-width:300px) and(max-width:600px) {
+    .para1 {
+        font-size: 15px;
+    }
+}
+.head {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.secondh4 {
+    margin-top: 15px;
+    text-align: center;
+}
+.inglist {
+    margin-left: 15px;
+}
+.inglist li {
+    list-style: none;
+    padding: 10px 2px;
+    font-size: 20px;
+}
+#method {
+    text-align: center;
+    margin-top: 25px;
+}
+.para1 {
+    font-size: 20px;
+}
+
